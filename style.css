@@ -106,6 +106,13 @@ footer li {
 	 margin-right: 15px;
 	 display: inline;
 	}
+
+footer p {
+	text-align: right;
+	margin-right: 15px;
+	float: right;
+	color: #777;
+}
 	
 #über {
 	margin: 15px;
